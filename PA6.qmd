@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Lena Kimura, Gabe Riedel, Delilah Hicks, Ezli Cruz
 format: html
 editor: visual
 embed-resources: true
