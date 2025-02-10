@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Dalilah, Ezli, Lena, Gabe"
 format: html
 editor: visual
 embed-resources: true
