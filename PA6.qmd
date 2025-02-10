@@ -3,7 +3,6 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 embed-resources: true
-author: Lena Kimura, Gabe Riedel, Delilah Hicks, Ezli Cruz
 ---
 
 ## Quarto
